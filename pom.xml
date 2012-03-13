@@ -3,7 +3,7 @@
 
     <groupId>com.precipicegames.zeryl</groupId>
     <artifactId>RandomTP</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>RandomTP</name>
