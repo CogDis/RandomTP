@@ -1,0 +1,11 @@
+name: RandomTP
+main: com.precipicegames.zeryl.randomtp.RandomTP
+version: 1.0
+commands:
+  rtp:
+    description: Randomly Teleports player in the world
+    usage: /rtp
+permissions:
+    precipice.canrtp:
+        description: Whether or not you can randomly TP
+        default: false
